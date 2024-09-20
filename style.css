@@ -1,0 +1,59 @@
+
+body{
+    height: 100vh;
+}
+
+.bg-image{
+    background-image: url(img/1339726.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background-color: black;
+    border-bottom: 1px solid black;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #495057;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #222bc8;
+}
+
+.container {
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+
+.footer .container {
+    text-align: center;
+}
+.mt-5 h1{
+    font-weight: 900;
+    font-family: "Dancing Script", cursive;
+    color:whitesmoke;
+    
+}
+.mt-5 p{
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    color:rgb(246, 239, 230);
+    background-color: rgba(92, 68, 38, 0.7);
+    border-radius: 30%;
+}
